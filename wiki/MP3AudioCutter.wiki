@@ -1,0 +1,15 @@
+#labels Featured,Phase-Requirements,Phase-Implementation
+#Audio and Video Cutter
+
+= Introduction =
+
+This is about to use MCI - Media Control Interface and create a tool to clip, record, play an  audio / video.
+
+
+= Details =
+
+* Project itself is in preliminary stage.
+
+= News =
+
+* Date : 21-Mar-2009 
